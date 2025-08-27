@@ -1,28 +1,28 @@
-<h1 align="center">Olá, eu sou o Davi 👋</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Especialista em Cibersegurança</h3>
+<div align="center">
+  <h1>Hi, I'm Davi 👋</h1>
+  <h3>Systems Analysis and Development Student | Aspiring Cybersecurity Specialist</h3>
+</div>
 
 <br>
 
-<p align="center">
-  <em>Sou um futuro especialista em Segurança da Informação com um foco profundo em Análise de Malware, OSINT e táticas de Red Team. Minha jornada é impulsionada pela curiosidade de entender como os sistemas funcionam para, então, aprender como protegê-los de forma eficaz.</em>
-</p>
+<div align="center">
+  <p><em>I am a future Information Security specialist with a deep focus on Malware Analysis, OSINT, and Red Team tactics. My journey is driven by the curiosity to understand how systems work in order to effectively learn how to protect them.</em></p>
+</div>
 
 <br>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviUserMain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUserMain&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviUserMain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUserMain&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+</div>
 
-<h3 align="center">Tecnologias e Áreas de Estudo</h3>
-<p align="center">
+<div align="center">
+  <h3 align="center">Technologies and Areas of Study</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,wireshark,nmap,ghidra,git,docker,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,wireshark,nmap,ghidra,git,docker,powershell&perline=10" />
   </a>
-</p>
+</div>
 
 <div align="center"> 
-  <a href="mailto:SEU-EMAIL-AQUI" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://tryhackme.com/p/SEU-USUARIO-TRYHACKME" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank"></a>
-</div>
+  <a href="mailto:YOUR-EMAIL-HERE" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="YOUR-LINKEDIN-HERE" target="_blank"><img src="
