@@ -44,4 +44,8 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 
 I am constantly applying and improving my knowledge in practical and controlled environments. You can follow some of my progress on TryHackMe:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-USERNAME-HERE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/novadavidfonseca)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DaviUserMain/DaviUserMain/output/snake.svg" alt="Snake animation" />
+</p>
