@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaviUserMain&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Contador de visitas" />
+</p>
+
 ### Hi, I'm Davi 👋
 
 I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
