@@ -2,6 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=DaviUserMain&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DaviUserMain&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 ### Hi, I'm Davi 👋
 
 I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
