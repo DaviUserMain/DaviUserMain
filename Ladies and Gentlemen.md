@@ -1,43 +1,28 @@
-### Hi, I'm Davi 👋
+<h1 align="center">Olá, eu sou o Davi 👋</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Especialista em Cibersegurança</h3>
 
-I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
+<br>
 
-I have a special interest in Malware Analysis, seeking to understand the tactics, techniques, and procedures of artifacts such as ransomware, RATs, and spyware. I believe that understanding adversary tools is the most effective way to create robust defenses. I also dedicate my studies to OSINT and Red Teaming.
+<p align="center">
+  <em>Sou um futuro especialista em Segurança da Informação com um foco profundo em Análise de Malware, OSINT e táticas de Red Team. Minha jornada é impulsionada pela curiosidade de entender como os sistemas funcionam para, então, aprender como protegê-los de forma eficaz.</em>
+</p>
 
----
-### 🌱 What I'm learning
+<br>
 
-- Programming logic and Python for automating security tasks.
-- Fundamentals of Networks and Operating Systems (Windows and Linux).
-- Principles of Malware Analysis (Static and Dynamic).
-- Pentest methodologies on platforms like TryHackMe.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviUserMain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUserMain&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
+<h3 align="center">Tecnologias e Áreas de Estudo</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,wireshark,nmap,ghidra,git,docker,powershell" />
+  </a>
+</p>
 
----
-
-### 🎯 Focus Areas
-
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-C41E3A?style=for-the-badge) 
-![Ransomware](https://img.shields.io/badge/Ransomware-D22B2B?style=for-the-badge) 
-![Spyware](https://img.shields.io/badge/Spyware-800000?style=for-the-badge)
-![RATs](https://img.shields.io/badge/RATs-5C5C5C?style=for-the-badge) 
-![OSINT](https://img.shields.io/badge/OSINT-4682B4?style=for-the-badge)
-
----
-
-### 💻 Technologies and Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2D54C2?style=for-the-badge&logo=virtualbox&logoColor=white)
-
----
-
-### 🚀 My Practical Journey
-
-I am constantly applying and improving my knowledge in practical and controlled environments. You can follow some of my progress on TryHackMe:
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-USERNAME-HERE)
+<div align="center"> 
+  <a href="mailto:SEU-EMAIL-AQUI" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://tryhackme.com/p/SEU-USUARIO-TRYHACKME" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank"></a>
+</div>
