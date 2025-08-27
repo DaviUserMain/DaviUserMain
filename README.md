@@ -47,5 +47,5 @@ I am constantly applying and improving my knowledge in practical and controlled 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/novadavidfonseca)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaviUserMain/DaviUserMain/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DaviUserMain/DaviUserMain/output/snake-dark.svg" alt="Snake animation" />
 </p>
