@@ -12,6 +12,13 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 - Principles of Malware Analysis (Static and Dynamic).
 - Pentest methodologies on platforms like TryHackMe.
 
+
+---
+
+### 🎯 Focus Areas
+
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-C41E3A?style=for-the-badge) ![Ransomware](https://img.shields.io/badge/Ransomware-D22B2B?style=for-the-badge) ![Spyware](https://img.shields.io/badge/Spyware-800000?style=for-the-badge)
+![RATs](https://img.shields.io/badge/RATs-5C5C5C?style=for-the-badge) ![OSINT](https://img.shields.io/badge/OSINT-4682B4?style=for-the-badge) ![Red Team](https://img.shields.io/badge/Red_Team-8B0000?style=for-the-badge)
 ---
 
 ### 💻 Technologies and Tools
