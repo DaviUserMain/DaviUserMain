@@ -6,11 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I'm+Davi!;Systems+Analysis+and+Development+Student;Aspiring+Cybersecurity+Specialist;Focused+on+Malware+Analysis+and+OSINT" alt="Typing SVG" />
 </div>
 
+---
+
 I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
 
 I have a special interest in Malware Analysis, seeking to understand the tactics, techniques, and procedures of artifacts such as ransomware, RATs, and spyware. I believe that understanding adversary tools is the most effective way to create robust defenses. I also dedicate my studies to OSINT and Red Teaming.
 
 ---
+
 ### 🌱 What I'm learning
 
 - Programming logic and Python for automating security tasks.
