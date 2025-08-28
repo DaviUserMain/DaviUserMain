@@ -47,8 +47,3 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 I am constantly applying and improving my knowledge in practical and controlled environments. You can follow some of my progress on TryHackMe:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/novadavidfonseca)
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaviUserMain&show_icons=true&theme=gruvbox_dark&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUserMain&layout=compact&langs_count=7&theme=gruvbox_dark&border_radius=10"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DaviUserMain&theme=gruvbox&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
