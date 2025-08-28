@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=600&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Davi+Luan!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aspirante+a+Especialista+em+Ciberseguran%C3%A7a;Focado+em+An%C3%A1lise+de+Malware+e+OSINT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=500&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Davi!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aspirante+a+Especialista+em+Ciberseguran%C3%A7a;Focado+em+An%C3%A1lise+de+Malware+e+OSINT" alt="Typing SVG" />
 </div>
 
 I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
