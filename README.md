@@ -6,15 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I'm+Davi!;Systems+Analysis+and+Development+Student;Aspiring+Cybersecurity+Specialist;Focused+on+Malware+Analysis+and+OSINT" alt="Typing SVG" />
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65923588/141096963-8a458454-8658-4a12-bc13-c4c4ee98e2e7.gif" />
+</p>
 
-I'm a Systems Analysis and Development student with a passion for Information Security. My journey began with curiosity about the inner workings of systems and software, which led me to deepen my knowledge of defensive and offensive cybersecurity.
-
-I have a special interest in Malware Analysis, seeking to understand the tactics, techniques, and procedures of artifacts such as ransomware, RATs, and spyware. I believe that understanding adversary tools is the most effective way to create robust defenses. I also dedicate my studies to OSINT and Red Teaming.
-
----
-
-### 🌱 What I'm learning
+> What I'm learning
 
 - Programming logic and Python for automating security tasks.
 - Fundamentals of Networks and Operating Systems (Windows and Linux).
@@ -24,7 +20,7 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 
 ---
 
-### 🎯 Focus Areas
+> Focus Areas
 
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-C41E3A?style=for-the-badge) 
 ![Ransomware](https://img.shields.io/badge/Ransomware-D22B2B?style=for-the-badge) 
@@ -34,7 +30,7 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 
 ---
 
-### 💻 Technologies and Tools
+> Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
@@ -46,7 +42,7 @@ I have a special interest in Malware Analysis, seeking to understand the tactics
 
 ---
 
-### 🚀 My Practical Journey
+> My Practical Journey
 
 I am constantly applying and improving my knowledge in practical and controlled environments. You can follow some of my progress on TryHackMe:
 
