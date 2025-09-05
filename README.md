@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaviUserMain&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=UsrMn&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I'm+Davi!;Systems+Analysis+and+Development+Student;Aspiring+Cybersecurity+Specialist;Focused+on+Malware+Analysis+and+OSINT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I'm+UsrMn!;Systems+Analysis+and+Development+Student;Aspiring+Cybersecurity+Specialist;Focused+on+Malware+Analysis+and+OSINT" alt="Typing SVG" />
 </div>
 
 <p align="center">
